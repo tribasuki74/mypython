@@ -1,6 +1,8 @@
 from app import app
 from flask import request
 
+#  kosong
+
 @app.route('/')
 @app.route('/index')
 def index():
